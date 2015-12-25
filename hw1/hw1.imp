@@ -1,0 +1,2 @@
+/* ASHWIN ASOKAN */
+let x = 41 in let y = 59 in while x <= y do { print x + y ; x := x + 1 ; y := y - 1 } ; let x = 0 in while not x == 1 do { print x ; x := x + 1} ; let x = 0 in let y = 0 in while x <= 3 do { while y <= 3 do { print x + y ; x := x + 1 } ; y := y + 1 }.
